@@ -1,4 +1,5 @@
 ﻿using System.Text;
+//Sistema Finalizado no dia 03/10/2024 - Cleyton Gravito
 using DesafioProjetoHospedagem.Models;
 
 Console.OutputEncoding = Encoding.UTF8;
@@ -16,7 +17,7 @@ hospedes.Add(p2);
 Suite suite = new Suite(tipoSuite: "Premium", capacidade: 2, valorDiaria: 30);
 
 // Cria uma nova reserva, passando a suíte e os hóspedes
-Reserva reserva = new Reserva(diasReservados: 5);
+Reserva reserva = new Reserva(diasReservados: 10);
 reserva.CadastrarSuite(suite);
 reserva.CadastrarHospedes(hospedes);
 
