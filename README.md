@@ -21,4 +21,4 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
 
 ## Conclusões:
-O projeto foi concluído com sucesso em 01/10/2024, com todas as alterações implementadas conforme solicitado. O sistema está 100% funcional, atendendo integralmente aos requisitos da atividade.
+O projeto foi concluído com sucesso em 03/10/2024, com todas as alterações implementadas conforme solicitado. O sistema está 100% funcional, atendendo integralmente aos requisitos da atividade.
